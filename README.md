@@ -8,14 +8,14 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Final year B.Tech student at **Cochin University of Science and Technology**  
+- 🎓 B.Tech graduate from Cochin University of Science and Technology
 - 🌱 Currently exploring cloud integrations and scalable app architecture  
 - 👨‍💻 6 months of internship experience building full-stack web applications  
 - 🛠️ Built projects using **Django + PostgreSQL + Vue.js** and **Node.js + Express + MongoDB**  
 - 🔧 Passionate about clean code, API design, and solving real-world problems  
 - 💡 Believe in adapting to any tech stack based on the project requirements  
 - 📫 Reach me at **muhammedyahiya000@gmail.com**  
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/muhammedyahiya) | [My Portfolio](#) *(optional)*
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/muhammed-yahiya-h/) | [My Portfolio](https://muhammedyahiya.github.io/PersonalWebsite/) *(optional)*
 
 ---
 
@@ -66,7 +66,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammedyahiya">
+  <a href="https://www.linkedin.com/in/muhammed-yahiya-h/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhammedyahiya000@gmail.com">
