@@ -15,7 +15,7 @@
 - 🔧 Passionate about clean code, API design, and solving real-world problems  
 - 💡 Believe in adapting to any tech stack based on the project requirements  
 - 📫 Reach me at **muhammedyahiya000@gmail.com**  
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/muhammed-yahiya-h/) | [My Portfolio](https://muhammedyahiya.github.io/PersonalWebsite/) *(optional)*
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/muhammed-yahiya-h/) | [My Portfolio](https://muhammedyahiya.github.io/PersonalWebsite/) 
 
 ---
 
