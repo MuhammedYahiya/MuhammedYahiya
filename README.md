@@ -46,6 +46,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedyahiya&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub trophies" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
