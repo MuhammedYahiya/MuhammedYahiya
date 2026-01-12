@@ -10,8 +10,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech graduate from **Cochin University of Science and Technology**
-- 👨‍💻 6 months of full-stack development internship experience  
-- 🧰 Built projects using **Django + PostgreSQL + Vue.js** and **Node.js + Express + MongoDB**
+- 👨‍💻 1 years of experience in full stack developement 
+- 🧰 Built projects using **FastApi + PostgreSQL + Next.js** and **Node.js + Express + MongoDB**
 - 🌱 Exploring **cloud integration** and **scalable app architecture**
 - 🧠 Passionate about **clean code**, **API design**, and **learning by building**
 - 📬 Reach me at: **muhammedyahiya000@gmail.com**
