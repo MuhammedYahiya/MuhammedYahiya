@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammed Yahiya</h1>
-<h3 align="center">Full-Stack Developer | MERN & Python Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Python & MERN Stack</h3>
+
+<p align="center">
+  <a href="https://github.com/MuhammedYahiya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=520&lines=Building+Scalable+Web+Applications;Django+%7C+FastAPI+%7C+Node.js+%7C+React;Clean+Code+%26+API+Design+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammedyahiya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/MuhammedYahiya?tab=followers"><img src="https://img.shields.io/github/followers/muhammedyahiya?label=Followers&style=social" alt="GitHub followers" /></a>
 </p>
 
 ---
@@ -10,46 +17,81 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech graduate from **Cochin University of Science and Technology**
-- 👨‍💻 1 years of experience in full stack developement 
-- 🧰 Built projects using **FastApi + PostgreSQL + Next.js** and **Node.js + Express + MongoDB**
-- 🌱 Exploring **cloud integration** and **scalable app architecture**
+- 💼 **1+ year** of experience in full-stack development
+- 🧰 Built projects using **FastAPI + PostgreSQL + Next.js** and **Node.js + Express + MongoDB**
+- 🔬 Worked on **deep learning** projects — plant disease detection with PyTorch, microgrid demand prediction
+- 🌱 Currently exploring **cloud integration** and **scalable app architecture**
 - 🧠 Passionate about **clean code**, **API design**, and **learning by building**
-- 📬 Reach me at: **muhammedyahiya000@gmail.com**
-- 🌐 [Portfolio Website](https://muhammedyahiya.github.io/PersonalWebsite/) | [LinkedIn](https://www.linkedin.com/in/muhammed-yahiya-h/)
+
+<p align="center">
+  <a href="https://muhammedyahiya.github.io/PersonalWebsite/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammed-yahiya-h/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muhammedyahiya000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend**  
+**Backend**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Database**  
+**Database**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**  
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Elixir**](https://github.com/MuhammedYahiya/Elixir) | Hospital Management System with JWT auth, RBAC, and Cloudinary integration | Django, REST API |
+| [**Medicinal Plant Disease Detection**](https://github.com/MuhammedYahiya/Medicinal-Plant-Disease-Detection) | Deep learning system using fine-tuned MobileNetV2 for leaf disease classification | Python, PyTorch |
+| [**Database Backup CLI**](https://github.com/MuhammedYahiya/Database-Backup-CLI) | CLI tool to backup/restore MySQL, PostgreSQL, MongoDB & SQLite databases | Python |
+| [**Python Networking Toolkit**](https://github.com/MuhammedYahiya/Python-Networking-Toolkit) | Netcat clone for remote command execution, TCP client/server, port scanner | Python, Sockets |
+| [**EduBase**](https://github.com/MuhammedYahiya/EduBase) | CLI learning tracker for managing progress across subjects and topics | Python, MySQL |
+| [**MicroGrid Bit Generation**](https://github.com/MuhammedYahiya/MicroGrid-Bit_Generation) | Neural network-based EV charging station microgrid demand prediction | Python, PyTorch |
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedyahiya&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedyahiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -57,24 +99,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedyahiya&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedyahiya&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedyahiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedyahiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
----
-
-## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-yahiya-h/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:muhammedyahiya000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedyahiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedyahiya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-<p align="center">⭐️ Thanks for visiting my profile!</p>
+<p align="center">
+  <b>⭐ If you find my work useful, consider giving a star!</b><br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
