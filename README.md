@@ -34,11 +34,11 @@
 
 ## 💼 Experience
 
-| Role | Company | Period | Stack |
-|------|---------|--------|-------|
-| **Full Stack Developer** | Deelo | Jan 2026 – Present | Next.js, Node.js, GraphQL, MongoDB |
-| **Full Stack Developer** | ReGoBs Technology | May 2025 – Dec 2025 | Full-Stack (DevLift Product) |
-| **Software Development Engineer** | Global Invisions | Jun 2022 – Oct 2022 | Full-Stack, REST APIs |
+| Role                              | Company           | Period              | Stack                              |
+| --------------------------------- | ----------------- | ------------------- | ---------------------------------- |
+| **Full Stack Developer**          | Deelo             | Jan 2026 – Present  | Next.js, Node.js, GraphQL, MongoDB |
+| **Full Stack Developer**          | ReGoBs Technology | May 2025 – Dec 2025 | Full-Stack (DevLift Product)       |
+| **Software Development Engineer** | Global Invisions  | Jun 2022 – Oct 2022 | Full-Stack, REST APIs              |
 
 ---
 
@@ -95,20 +95,30 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Elixir**](https://github.com/MuhammedYahiya/Elixir) | Hospital Management System with JWT auth, RBAC, and Cloudinary integration | Node.js, MongoDB, REST APIs |
-| [**Medicinal Plant Disease Detection**](https://github.com/MuhammedYahiya/Medicinal-Plant-Disease-Detection) | Deep learning system using fine-tuned MobileNetV2 for leaf disease classification | Python, PyTorch, Flask |
-| [**MicroGrid Demand System**](https://github.com/MuhammedYahiya/MicroGrid-Bit_Generation) | Neural network for EV charging station microgrid demand prediction, deployed on PYNQ Z1 | Python, PyTorch, FINN |
-| [**Database Backup CLI**](https://github.com/MuhammedYahiya/Database-Backup-CLI) | CLI tool to backup/restore MySQL, PostgreSQL, MongoDB & SQLite databases | Python |
-| [**Python Networking Toolkit**](https://github.com/MuhammedYahiya/Python-Networking-Toolkit) | Netcat clone for remote command execution, TCP client/server, port scanner | Python, Sockets |
+| Project                                                                                                      | Description                                                                             | Tech                        |
+| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------- |
+| [**Elixir**](https://github.com/MuhammedYahiya/Elixir)                                                       | Hospital Management System with JWT auth, RBAC, and Cloudinary integration              | Node.js, MongoDB, REST APIs |
+| [**Medicinal Plant Disease Detection**](https://github.com/MuhammedYahiya/Medicinal-Plant-Disease-Detection) | Deep learning system using fine-tuned MobileNetV2 for leaf disease classification       | Python, PyTorch, Flask      |
+| [**MicroGrid Demand System**](https://github.com/MuhammedYahiya/MicroGrid-Bit_Generation)                    | Neural network for EV charging station microgrid demand prediction, deployed on PYNQ Z1 | Python, PyTorch, FINN       |
+| [**Database Backup CLI**](https://github.com/MuhammedYahiya/Database-Backup-CLI)                             | CLI tool to backup/restore MySQL, PostgreSQL, MongoDB & SQLite databases                | Python                      |
+| [**Python Networking Toolkit**](https://github.com/MuhammedYahiya/Python-Networking-Toolkit)                 | Netcat clone for remote command execution, TCP client/server, port scanner              | Python, Sockets             |
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedYahiya/MuhammedYahiya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammedYahiya/MuhammedYahiya/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammedYahiya/MuhammedYahiya/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedyahiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
