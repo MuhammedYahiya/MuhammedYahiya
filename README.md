@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://muhammedyahiya.github.io/PersonalWebsite/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammed-yahiya-h/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mhdyahiya007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#fb96939f829a9392829acbcbccbb9c969a9297d5989496"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -126,12 +126,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedyahiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedyahiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedyahiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
@@ -142,5 +142,4 @@
 
 <p align="center">
   <b>⭐ If you find my work useful, consider giving a star!</b><br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&hei
